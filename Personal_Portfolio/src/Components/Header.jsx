@@ -6,7 +6,7 @@ const Header = () => {
    flex justify-between items-center">
     <div>
     <div className="font-bold text-3xl">Afrozkhan</div>
-    <div className="text-xl">Educater</div>
+    <div className="text-xl">Full Stack Developer (MERN)</div>
     </div>
     <img className="rounded-full w-24" src={afrozkhan} alt="" />
    </header>

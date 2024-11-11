@@ -4,7 +4,7 @@ import List from './List';
 import Section from './Section';
 
 const Hobbies = () => {
-  const hobbie = ["Photography","Hiking","Playing","guitar","Reading Sci-fi","Novals"];
+  const hobbie = ["Genrative AI","Blockchain","Data Analytics","Data Science"];
   return <Section icon={<Heart />} sectionTitle="Hobbies & Interests">
   <List items={hobbie} />
   </Section>

@@ -6,9 +6,7 @@ const Aboutme = () => {
   return <div className='mt-6'>
   <Section icon={<User />} sectionTitle="About Me">
      <p>
-      I'am passionate full stack developer with 5 years of experience. 
-      in building web applications.I love creating efficient, scalable 
-      and user-friendly solution to complex problems.
+     Highly skilled and motivated Full Stack Developer with hands-on experience in front-end and back-end web development. Passionate about creating efficient, responsive applications with a strong emphasis on both UI/UX and backend functionality. Currently equipped with an Advanced Diploma in Computer Engineering (ADCE) and practical experience from internships at IBM and CodSoft.
     </p>
   </Section>
   </div>
